@@ -1,1 +1,1 @@
-# DATA270_GWAR
+# Prognosis-of-Bankruptcy-by-Employing-Machine-Learning-Techniques
